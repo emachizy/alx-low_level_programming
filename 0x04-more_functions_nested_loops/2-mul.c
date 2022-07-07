@@ -3,7 +3,7 @@
 /**
   *mul - returns the multiplied parameters
   *@a: int type number
-  @b: int type number
+  *@b: int type number
   *Return: always sucess 0
   */
 
