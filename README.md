@@ -34,6 +34,15 @@ I've recently began my software engineering career at ALX, and as part of requir
 | [0x0D-preprocessor](0x0D-preprocessor) | Introduction to macros, how to use and define them, and how to guard header file |
 | [0x0E-structures_typedef](0x0E-structures_typedef) | Introduction to structures, and user defined data types using typedef |
 | [0x0F-function_pointers](0x0F-function_pointers) | Introduction to function pointers |
+| [0x10-variadic_functions](0x0f-variadic_functions) | Into to variadic functions in c |
+| [0x12-singly_linked_lists](0x12-singly_linked_lists) | Intro to singly linked lists |
+| [0x13-more_singly_linked_lists](0x13-singly_linked_lists) | More on singly linked lists |
+| [0x14-bit_manipulation](0x14-bit_manipulation) | Introduction to bit manipulation |
+| [0x15-file_io](0x15-file_io) | Introduction to File I/O |
+| [0x17-doubly_linked_lists](0x17-doubly_linked_lists) | Introduction to double linked lists |
+| [0x18-dynamic_libraries](0x18-dynamic_libraries) | Introduction to dynamic libraries |
+| [0x1A-hash_tables](0x1A-hash_tables) | Introduction to hash tables |
+| [0x1C-makefiless](0x1C-makefiles) | Introduction to make files |
 | Updates loading | Always check back to see if new content has been added |
 
 
